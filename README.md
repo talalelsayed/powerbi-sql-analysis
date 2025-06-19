@@ -1,5 +1,4 @@
 # powerbi-sql-analysis
-talalelsayed/powerbi-sql-analysis
 Data Source: Microsoft SQL Server
 Tool Used: Power BI
 
